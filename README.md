@@ -43,7 +43,7 @@ PC               MySQL
 
 2013年5月17号，最后一台IMB小型机下线
 
-![CPU](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030601.png)
+![CPU](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030601.png/2020030601.png)
 
 单机计算机的架构—》分布式计算机架构
 
@@ -61,7 +61,7 @@ BAT
 
 电商平台发展
 
-![电商平台发展](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030602.png)
+![电商平台发展](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030602.png)
                
 
 
@@ -76,7 +76,7 @@ BAT
 
 第一版应用
 
-​![第一版应用](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030603.png)
+​![第一版应用](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030603.png)
 
 第二版 单击负载越来越高，数据库服务器和应用服务器分离
 
@@ -84,7 +84,7 @@ BAT
 
 第三版  应用服务器做集群
 	
-![第三版](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030605.png)
+![第三版](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030605.png)
 
 
 ​	
@@ -114,7 +114,7 @@ ConcurrentMap   key JSESSIONID  values session
 
 第四版  数据库的高性能操作
 
-​	![第四版](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030606.png)
+​	![第四版](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030606.png)
 ​	
 	1. 数据库读写分离怎么操作？
 	2. 数据库的数据同步？
@@ -122,7 +122,7 @@ ConcurrentMap   key JSESSIONID  values session
 
 电商平台最多的操作： 搜索商品
 
-​	![**电商平台最多的操作**](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030607.png)
+​	![**电商平台最多的操作**](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030607.png)
 
 
 
@@ -135,7 +135,7 @@ ConcurrentMap   key JSESSIONID  values session
 用户量是没有上限的
 缓存、 限流、 降级
 
-![第六版](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030608.png)
+![第六版](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030608.png)
 
 
 
@@ -148,11 +148,11 @@ ConcurrentMap   key JSESSIONID  values session
 		优化数据库瓶颈：分库分表（按业务维度拆分）
 
 
-![第8版本](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/2020030609.png)			
+![第8版本](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030609.png)			
 
 
 第9版本  应用按服务拆分，拆分后怎么查询?
 
 	按域名访问
 
-![第9版本](https://github.com/lwx57280/Distributed-topics/tree/master/images-folder/20200306010.png)
+![第9版本](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/20200306010.png)
