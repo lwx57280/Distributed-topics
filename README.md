@@ -43,7 +43,7 @@ PC               MySQL
 
 2013年5月17号，最后一台IMB小型机下线
 
-![CPU](README/2020030601.png)
+![CPU](https://github.com/lwx57280/Distributed-topics/blob/master/images-folder/2020030601.png)
 
 单机计算机的架构—》分布式计算机架构
 
